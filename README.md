@@ -15,4 +15,4 @@ and now you can run scrapper,<br>this program will scrape https://webscraper.io/
 product name and prices.
 and store them into product.csv files
 
-[title](https://www.instagram.com/fazriachyar) 10/June/2022
+[@fazriachyar](https://www.instagram.com/fazriachyar) 10/June/2022
